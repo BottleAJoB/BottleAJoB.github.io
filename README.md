@@ -1,5 +1,5 @@
 ---
-description: 欢迎来到主页
+description: 这里是 C2Mods动力生存服务器的Wiki页面
 ---
 
 # 主页
