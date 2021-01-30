@@ -1,3 +1,7 @@
+---
+description: これがC2ModsPower SurvivalServerのWikiページです
+---
+
 # ホームページ
 
 これはメインページです
