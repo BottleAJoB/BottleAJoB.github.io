@@ -36,7 +36,7 @@ Linux端推荐官方启动器或者HMCL
 
 MAC端推荐官方启动器
 
-Android端推荐使用我们专用的启动器 
+Android端推荐使用我们专用的启动器 [使用方法](https://wiki.mcpe.ltd/v/cn/start/install-android)
 {% endhint %}
 
 
