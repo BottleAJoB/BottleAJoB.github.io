@@ -1,3 +1,7 @@
+---
+description: Here is the Wiki page of C2Mods Power Survival Server
+---
+
 # Main
 
 This is Main Page
