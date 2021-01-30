@@ -1,4 +1,2 @@
-# Main
-
-This is Main Page
+# 主页
 
