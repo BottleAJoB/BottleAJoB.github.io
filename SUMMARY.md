@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Main](README.md)
+* [ホームページ](README.md)
 
